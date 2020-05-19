@@ -4,7 +4,7 @@
     "name": "SkyBlock",
     "image": "https://i.imgur.com/hUpbAxR.png",
     "staff": [
-      {
+    {
         "name": "Samuel Neri",
         "id": "poledar",
         "image": "https://cdn.discordapp.com/avatars/169121023957008384/de53da9c6153adc0c3b4a38574d1fb8e.png",
@@ -13,44 +13,62 @@
       {
         "name": "Ivens Carneiro",
         "id": "MRIvens",
-        "image": "https://cdn.discordapp.com/attachments/442358215087357962/666401445976866861/IMG-20200113-WA0021.jpg",
+        "image": "https://cdn.discordapp.com/avatars/305401875946143744/87e8795307f4e8ccc2ab1aa8c9fc3b41.png",
         "cargo": "Coordenador - SkyBlock"
       },
       {
-        "name": "Lorenza Silva",
+        "name": "Mateus Calzada",
+        "id": "_M4TI4S_",
+        "image": "https://cdn.discordapp.com/avatars/163245314537422848/2f2e4b888ff70df3ebd2bc0e6467d474.png",
+        "cargo": "Coordenador - SkyBlock"
+      },
+      {
+        "name": "Lorenza Cordeiro",
         "id": "Lasky_cl",
-        "image": "https://cdn.discordapp.com/attachments/442358215087357962/666399710466015238/IMG-20200113-WA0010.jpg",
+        "image": "https://cdn.discordapp.com/avatars/395328835622797312/7e422710a7a6e1c7e46667fb2d9693df.png",
         "cargo": "Coordenadora - SkyBlock"
       },
       {
-        "name": "Matheus Calzada",
-        "id": "_M4TI4S_",
-        "image": "https://cdn.discordapp.com/attachments/442358215087357962/666399711284035585/IMG-20200113-WA0013.jpg",
+        "name": "Ruth Almeida",
+        "id": "l4dyGh0st",
+        "image": "https://cdn.discordapp.com/avatars/334824082199805962/663112826fe3a00e62439173505f3a36.png",
+        "cargo": "Coordenador - SkyBlock"
+      },
+      {
+        "name": "Guilherme Franco",
+        "id": "MalucoogamerCL",
+        "image": "https://cdn.discordapp.com/avatars/162772129996079104/1b7e0e499a6d5f907e99340317c4fd00.png",
         "cargo": "Adminstrador - SkyBlock"
       },
       {
-        "name": "Ruth Almeida",
-        "id": "PopCorn_55",
-        "image": "https://cdn.discordapp.com/attachments/442358215087357962/666400013684965415/IMG-20200113-WA0018.jpg",
-        "cargo": "Adminstradora - SkyBlock"
+        "name": "Gabriel Nunes",
+        "id": "TioAllen",
+        "image": "https://cdn.discordapp.com/avatars/290584049162911744/b85bf3e91bfdec1bbb46ee2a491c2e96.png",
+        "cargo": "Adminstrador - SkyBlock"
       },
       {
-        "name": "Diego Silva",
-        "id": "_DiiH_",
-        "image": "https://cdn.discordapp.com/attachments/442358215087357962/666399710466015240/IMG-20200113-WA0008.jpg",
+        "name": "Gabriel Farias",
+        "id": "Monguinho",
+        "image": "https://cdn.discordapp.com/avatars/453259304837840916/e5c800dd72b5f1419369f9fb84ce1a16.png",
+        "cargo": "Adminstrador - SkyBlock"
+      },
+      {
+        "name": "Gustavo Santos",
+        "id": "GuuhSantos",
+        "image": "https://cdn.discordapp.com/avatars/660023679442485260/89a4f49da9ff6fa8e151bb942d7df1c4.png",
         "cargo": "Moderador - SkyBlock"
       },
       {
-        "name": "Eric Campos",
-        "id": "LaShacoDePapel",
-        "image": "https://cdn.discordapp.com/attachments/442358215087357962/666404531583582208/IMG-20200113-WA0024.jp",
-        "cargo": "Ajudante - SkyBlock"
+        "name": "Wellington Burey",
+        "id": "ImWellitaooo_",
+        "image": "https://cdn.discordapp.com/avatars/508047350317449236/f2bf35a193da41173b64ccefe0dcffcb.png",
+        "cargo": "Helper - SkyBlock"
       },
       {
-        "name": "Bianca Canova",
-        "id": "yBia",
-        "image": "https://cdn.discordapp.com/avatars/465918707642925066/bc936d8e365356c5d7744671caa3777b.png",
-        "cargo": "Ajudante - SkyBlock"
+        "name": "Davi Chaves",
+        "id": "DaviCX407",
+        "image": "https://cdn.discordapp.com/avatars/333716564954316800/2f041bf6aaa62d1ed4dcc8d119c71b72.png",
+        "cargo": "Helper - SkyBlock"
       }
     ]
   },
